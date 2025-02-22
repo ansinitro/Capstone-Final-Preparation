@@ -12,7 +12,8 @@
 | 8  | Software Implementation (Naming conventions (pascal, hungarian))                                      | [8]                                     |
 | 9  | Testing of Software (Unit Testing, Regression Testing)                                                | [9]                                     |
 | 10 | Identification of Bag Type from some piece of codes on different programming languages (python, c++, java, javascript, go and etc.) <br><br>OR*<br><br>  Identification of Correct Diagram Type for some specific software project <br><br>OR*<br><br>  Identification of Good and Bad Case of GUI Mockups for some specific software project.                               | [10] 
-*it depends on variant type.
+
+*\*it depends on variant type.*
 
 ### References:
 - [1] Look at 2nd, 4th and 6th question from Quiz1
